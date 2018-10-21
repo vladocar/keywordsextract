@@ -1,0 +1,25 @@
+{
+  "name": "keywordsextract",
+  "version": "1.0.0",
+  "description": "Extract keywords from website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "keywordsextract": "./index.js"
+  },
+  "dependencies": {
+    "node-readability": "^3.0.0",
+    "gramophone": "^0.0.3",
+    "commander": "^2.19.0",
+    "sanitizer": "^0.1.3"
+  },
+  "keywords": [
+    "keywords",
+    "extract",
+    "node"
+  ],
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "license": "MIT"
+}
