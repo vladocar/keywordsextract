@@ -1,6 +1,6 @@
 
 
-keywordsextract - extract keywords from any website
+keywords-extract - extract keywords from any website
 =======================================
 
 Extract keywords with Node.js in the console
