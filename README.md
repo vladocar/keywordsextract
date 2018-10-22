@@ -16,6 +16,8 @@ Command line tool for keyword extraction. This Node.js project works mainly with
 $ npm i -g keywordsextract
 ```
 
+Example:
+
 ```shell
 $ keywordsextract --url https://en.wikipedia.org/wiki/Search_engine_optimization --n 3,4
 ```
