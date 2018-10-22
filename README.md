@@ -1,13 +1,13 @@
 
 
-keywordsextract - extract keywords from any webside
+keywordsextract - extract keywords from any website
 =======================================
 
 Extract keywords with Node.js in the console
 
 * * *
 
-This Node.js project works mainly with two node modules "node-readability" that filters only the main text clearing the noise from the main text and "gramophone" module that filters the keywords from the texts.
+Command line tool for keyword extraction. This Node.js project works mainly with two node modules "node-readability" that filters only the main text clearing the noise from the main text and "gramophone" module that filters the keywords from the texts.
 
 
 ### Install & Use
